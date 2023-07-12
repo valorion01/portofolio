@@ -1,0 +1,19 @@
+body {
+    background-color: rebeccapurple;
+
+    font-family:monospace
+}
+
+h1 {
+    color:blueviolet;
+    font-weight:30px;
+    text-shadow: 5px 5px brown;
+    font-size:xx-large;
+
+}
+a {
+    color:aquamarine;
+}
+a :hover {
+    color:rgb(82, 54, 45);
+}
